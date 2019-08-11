@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sony\\source\\repos\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\sony\\Documents\\github\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sony\\source\\repos\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\sony\\Documents\\github\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sony\\source\\repos\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\sony\\Documents\\github\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\sony\\source\\repos\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\sony\\Documents\\github\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\sony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sony\\source\\repos\\interviewVSNET\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\sony\\Documents\\github\\interviewVSNET\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

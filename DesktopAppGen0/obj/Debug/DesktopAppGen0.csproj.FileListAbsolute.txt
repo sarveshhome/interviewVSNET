@@ -1,0 +1,9 @@
+C:\Users\sony\Documents\github\interviewVSNET\DesktopAppGen0\bin\Debug\DesktopAppGen0.exe.config
+C:\Users\sony\Documents\github\interviewVSNET\DesktopAppGen0\bin\Debug\DesktopAppGen0.exe
+C:\Users\sony\Documents\github\interviewVSNET\DesktopAppGen0\bin\Debug\DesktopAppGen0.pdb
+C:\Users\sony\Documents\github\interviewVSNET\DesktopAppGen0\obj\Debug\DesktopAppGen0.csprojAssemblyReference.cache
+C:\Users\sony\Documents\github\interviewVSNET\DesktopAppGen0\obj\Debug\DesktopAppGen0.Properties.Resources.resources
+C:\Users\sony\Documents\github\interviewVSNET\DesktopAppGen0\obj\Debug\DesktopAppGen0.csproj.GenerateResource.cache
+C:\Users\sony\Documents\github\interviewVSNET\DesktopAppGen0\obj\Debug\DesktopAppGen0.csproj.CoreCompileInputs.cache
+C:\Users\sony\Documents\github\interviewVSNET\DesktopAppGen0\obj\Debug\DesktopAppGen0.exe
+C:\Users\sony\Documents\github\interviewVSNET\DesktopAppGen0\obj\Debug\DesktopAppGen0.pdb
