@@ -6,7 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            Sample objsampleconst = new Sample();
+            Console.WriteLine(objsampleconst.ToString());
             Sample objsample = new Sample("sarvesh");
             Console.WriteLine(objsample.ToString());
             Sample objsample2 = new Sample("Tarun");
