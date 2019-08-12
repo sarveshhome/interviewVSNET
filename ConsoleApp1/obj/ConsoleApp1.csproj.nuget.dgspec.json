@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sony\\Documents\\github\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Sarvesh\\Sarvesh\\Practice\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sony\\Documents\\github\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Sarvesh\\Sarvesh\\Practice\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sony\\Documents\\github\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Sarvesh\\Sarvesh\\Practice\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\sony\\Documents\\github\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\sony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sony\\Documents\\github\\interviewVSNET\\ConsoleApp1\\obj\\",
+        "projectPath": "D:\\Sarvesh\\Sarvesh\\Practice\\interviewVSNET\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\CarltonIT4\\.nuget\\packages\\",
+        "outputPath": "D:\\Sarvesh\\Sarvesh\\Practice\\interviewVSNET\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CarltonIT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,6 +42,7 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
